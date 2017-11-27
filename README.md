@@ -1,3 +1,7 @@
+# kidnapped vehicle Project
+[image1]: ./kidnapped_vehicle_Localization.gif "kidnapped_vehicle_Localization"
+![alt text][image1]
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
