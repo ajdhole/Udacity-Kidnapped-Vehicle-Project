@@ -215,7 +215,6 @@ void ParticleFilter::resample() {
 	// NOTE: You may find std::discrete_distribution helpful here.
 	//   http://en.cppreference.com/w/cpp/numeric/random/discrete_distribution
 
-	default_random_engine gen;
 	uniform_real_distribution<> distribution(0, 1);
 	vector<Particle> new_particles;
 
